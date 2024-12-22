@@ -1,7 +1,7 @@
 # Introduction
 Bonjour, recevez chers lecteurs, toutes mes sincères salutations.
 Et après, je souhaite créer mon propre projet, comme je suis passionné par l'astronomie, je souhaite créer un site des découvertes scientifiques et astrnomiques.
-# But 
+# Objectif
 Le but de mon site est de diffuser la science et faire découvrir les gents l'astrnomie et leur montrer qu'il n'existe pas seulemetent la terre dans l'univers; car il y a les 7 autres planètes de systèmes solaires à part la terre : Mercure, Vénus, Mars, Jupiter, Saturne, Neptune. Sans oublier les milliers des autres exoplanètes. Et on ne s'arrète pas dans cela, j'ai encore beaucoup de buts que je vais les réaliser bientôt.
 # Languages
 J'utilisera principalement HTML et CSS. Pouvez-vous m'aider avec les codes JS ou autres. Par contre je connaîs coder à l'aide de python.
