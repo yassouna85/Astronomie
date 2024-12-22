@@ -27,7 +27,7 @@ pour effectuer cette analyse on doit savoir :
 - volume doit être de 2.5 à 4g/cm3
 - réaction avec NaCl, acide citrique, saccarose, vinaigre...
 
-# Résumé
+# Conclusion
 Bref, ce site aidera les gents de découvrir la science ou découvrir la science. Et c'est 100% gratuit, car c'est un offre de mon coeur pour chaque personne qui aime la science.
 # Remerciement
 Je voudrais remercir chacun qui est arrivé à la fin de cet article, car il est interessé de mon projet, et ça signifie trop pour moi.
